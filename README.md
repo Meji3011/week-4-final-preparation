@@ -1,4 +1,5 @@
 **Frontend Simplified: Week 4 - JavaScript Database Creation**
+
 This repository is based on the content from Week 4's video Final Preparation on Frontend Simplified, focusing on using JavaScript to fetch data from an API and displaying it.
 
 1. Key Takeaways:
