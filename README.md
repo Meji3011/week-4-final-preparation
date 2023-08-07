@@ -5,3 +5,5 @@ Learning about the role us async/await in fetching data from APIs and rendering 
 Some more good practices such as simplifying the code by creating functions for code that are meant to be reused.
 
 Also learned about some debugging practices using inspect on webpages.
+
+8.7.2023
